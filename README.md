@@ -23,7 +23,7 @@ Solé Yoga is a sanctuary for modern seekers, where ancient practice meets coast
 
 ## Live Demo
 
-[View on Netlify](https://sole-yoga-demo.netlify.app) *(pending deployment)*
+🌐 **[View on Netlify](https://sole-yoga-sd.netlify.app)**
 
 ## Local Development
 
